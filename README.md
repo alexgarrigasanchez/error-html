@@ -1,3 +1,3 @@
-# Carpeta Errores 400, 402, 500
+# Carpeta Errores 400, 404, 500
 
 Version 0
